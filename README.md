@@ -21,6 +21,8 @@ This project is a responsive quiz application built using HTML, CSS, and JavaScr
 ✅ Fully responsive design
 
 This project is a great example for those looking to practice interactive web application development with JavaScript. Feel free to explore the repository or contribute!
+
 🔗 Live Demo & Usage: https://fe-quiz-app-swart.vercel.app/
+
 ![Ekran görüntüsü 2025-02-15 224244](https://github.com/user-attachments/assets/22520c00-d626-4708-9473-5a126b44f574)
 
