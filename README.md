@@ -10,7 +10,7 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilen duyarlı (responsi
 Bu proje, JavaScript ile etkileşimli web uygulamaları geliştirme pratiği yapmak isteyenler için güzel bir örnektir. Katkıda bulunmak veya kodu incelemek için repo içeriğini keşfedebilirsin!
 
 🔗 Demo & Kullanım: https://fe-quiz-app-swart.vercel.app/
-
+--------------------------------------------------------------------------------------------------------------------
 🎯 Responsive Quiz App
 This project is a responsive quiz application built using HTML, CSS, and JavaScript. It features a user-friendly interface and adapts seamlessly to different screen sizes, ensuring smooth performance on both desktop and mobile devices.
 
